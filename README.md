@@ -5,6 +5,7 @@ Progetto di esempio realizzato con Tailwind 3, spiega le varie sezioni presentat
 Clona la repo e avvia il server di sviluppo
 
 ```bash
+npm install
 npm run dev
 ```
 
